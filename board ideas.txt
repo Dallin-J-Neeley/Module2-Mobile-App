@@ -1,5 +1,0 @@
-What I've seen done in the past is to find a image of a board that is square, then lay out the buttons or individual tiles based on the width and height of the image. it will line them up if your image is perfectly square
-Avatar of %{name}
-Anonymous
-1m
-(width/10)/2 will be the center on the first column of tiles assuming its 10 tiles wide
